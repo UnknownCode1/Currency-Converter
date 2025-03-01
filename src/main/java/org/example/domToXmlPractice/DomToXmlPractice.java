@@ -1,4 +1,4 @@
-package org.example.DomToXmlPractice;
+package org.example.domToXmlPractice;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
